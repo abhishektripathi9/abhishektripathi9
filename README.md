@@ -15,7 +15,10 @@
   <!-- Social & Portfolio Badges -->
   <p align="center">
     <a href="https://abhishek-portfolio-uir4.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F0FF?style=for-the-badge&logoColor=040711&labelColor=040711" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F5FF?style=for-the-badge&logoColor=040711&labelColor=040711" alt="Portfolio" />
+    </a>
+    <a href="Abhishek_Tripathi_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄_View_Resume-FF007F?style=for-the-badge&logoColor=white&labelColor=040711" alt="Resume PDF" />
     </a>
     <a href="https://linkedin.com/in/abhishek-tripathi-a2a35a307/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
